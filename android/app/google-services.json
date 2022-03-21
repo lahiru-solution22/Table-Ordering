@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "591554188037",
+    "project_id": "dropin-pos-91d32",
+    "storage_bucket": "dropin-pos-91d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591554188037:android:f4f2064ad0ac6843871d6c",
+        "android_client_info": {
+          "package_name": "com.solution22.dropinPOS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591554188037-8df0uchm9cq6ins7l9sgrgg9db6ei3et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlElWso0b0-0DeWjtk3zinRn31yJ-2jZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591554188037-8df0uchm9cq6ins7l9sgrgg9db6ei3et.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591554188037-bvdlv6fmt4693fr2k2mt4f9avj9iu1q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solution22.dropinPOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
